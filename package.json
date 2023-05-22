@@ -1,0 +1,18 @@
+{
+  "name": "sciencefair_nestjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/cli": "^9.2.0",
+    "@nestjs/mongoose": "^9.2.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.0",
+    "node": "^19.6.1"
+  }
+}
